@@ -5,39 +5,41 @@
 ## Plugins
 
 ### Utilidades
+   - sync-settings
    - linter
    - minimap
    - file-icons
-   - remote-edit : Editar ficheros remotos
    - todo-show
    - tomatimer : método pomodoro 
    - highlight-selected
    - autocomplete-paths
    - docblockr
    - term3
-   - atom-terminal
-   - nuclide  -> IDE DE FACEBOOK BASADO EN ATOM
-   - sync-settings
    - zip-folder
    - font-viewer
-   - ftp-server
+   - project-manager
+   - remote-edit : Editar ficheros remotos
+   - nuclide  -> IDE DE FACEBOOK BASADO EN ATOM
 
 ### Git
    - git-plus
    - git-control
    - git-time-machine
    - merge-conflicts
+   - git-projects
    
 ### Javascript
    - linter-eslint
    - javascript-snippets
    - goto-definition
    - atom-ternjs
-   - es6-snippet
+   - es6-snippets
 
    
 ### Angular
    - angularjs
+   - autocomplete-angular-material
+   - angular-snippets
    
 ### Html
    - htmlhint
@@ -55,7 +57,6 @@
 
    - language-markdown
    - markdown-writer
-   - markdown-preview
    - markdown-preview-plus
    - markdown-pdf
    - linter-markdown
